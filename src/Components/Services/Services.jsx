@@ -27,14 +27,14 @@ const Services = () => {
               detail = {"Figma, Photoshop, Illustrator"} 
               />
           </div>
-          <div style={{top: "12rem", left: "-4rem"}}>
+          <div style={{ top: "12rem", left: "-4rem" }}>
             <Card
             emoji={Glasses}
             heading={"Developer"}
             detail={"HTML, CSS, JavaScript, ReactJs, Python, Django"}
             />
           </div>
-          <div style={{top:"19rem", left:"12rem" }}>
+          <div style={{ top:"19rem", left:"12rem" }}>
             <Card
             emoji={Humble}
             heading={"Data Analysts"}
